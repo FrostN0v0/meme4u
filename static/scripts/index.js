@@ -120,7 +120,7 @@ function view() {
 async function initgallery() {
     document.getElementById(
         'description'
-    ).innerHTML = `@DESC@, @T_NIMGS@`
+    ).innerHTML = `典狱长？来入典了, 目前已有 ${items.length} 张`
     document.getElementById('refresh-btn').onclick = () => {
         location.hash = `#${
             items[random(items.length - 1, 0)].match(

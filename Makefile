@@ -54,12 +54,6 @@ icon:
 	@echo "***     - static/favicon.png"
 	@echo "*** Please put your icons to the right place."
 
-copyandstub:
-	mkdir -pv shell static/data/images static/scripts
-	touch static/data/.gitkeep static/data/images/.gitkeep
-	cp -rf src/.github .
-	cp -rf src/static/style.css static/
-	cp -rf src/shell/computed.sh src/shell/imgcheck.py shell/
 
 clean:
 	rm -rfv .github shell static index.html
