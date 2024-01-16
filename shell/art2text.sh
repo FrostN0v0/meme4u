@@ -33,7 +33,7 @@ do
 
 <body>
     <main class="container">
-        <h1>群の法典 | <a href="/text"> 文字梗</a></h1>
+        <h1>群の法典 | <a href="/text">文字梗</a></h1>
         <article id="view">
             <github-md>
 EOF
