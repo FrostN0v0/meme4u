@@ -24,11 +24,11 @@ cat > "text/index.html" <<EOF
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="@DESC@">
-    <link rel="icon" href="/static/favicon.ico">
+    <meta name="description" content="典狱长？来入典了">
+    <link rel="icon" href="./static/favicon.ico">
     <title>群の法典 | 典狱长？来入典了</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1.5.0/css/pico.min.css">
-    <link rel="stylesheet" href="/static/style.css">
+    <link rel="stylesheet" href="./static/style.css">
     <style>
         #view {
             text-align: left;
@@ -38,7 +38,7 @@ cat > "text/index.html" <<EOF
 
 <body>
     <main class="container">
-        <h1>@TITLE@ | <a href="/">@T_MEMEPIC@</a></h1>
+        <h1>群の法典 | <a href="/">图片梗</a></h1>
         <h5 id="description"></h5>
         <article id="view">
             <github-md>
