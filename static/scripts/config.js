@@ -1,9 +1,31 @@
 export default {
   items: [
+    "meme/付岩笑出强大.jpg",
+    "meme/你看签弔吗？.jpg",
+    "meme/俊富你瞅啥.jpg",
+    "meme/俊富征婚.png",
     "meme/吃饺子.jpg",
+    "meme/幸福入眠.jpg",
+    "meme/思剑心切.jpg",
+    "meme/懵签探头.jpg",
+    "meme/校园JK.png",
+    "meme/武士.jpg",
     "meme/济孟呵.jpg",
+    "meme/签小拳拳捶你胸口.jpg",
+    "meme/签羞涩一笑.jpg",
+    "meme/签跃跃欲试.jpg",
+    "meme/给付岩也整不会了.jpg",
+    "meme/给济孟整不会了.jpg",
     "meme/翠花俺来啦.png",
+    "meme/蛋喝一个.jpg",
+    "meme/被狗群友气晕.jpg",
+    "meme/调整弹道.jpg",
+    "meme/贵妇梳妆.jpg",
     "meme/超级睡觉王.png",
-    "meme/韩壮壮妙啊.jpg"
+    "meme/银剑好好努力.jpg",
+    "meme/银剑笑.jpg",
+    "meme/雷神银剑.jpg",
+    "meme/韩壮壮妙啊.jpg",
+    "meme/韩壮壮闭眼.jpg"
   ]
 }
